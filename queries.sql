@@ -22,3 +22,12 @@ GROUP BY month;
 SELECT region, SUM(quantity * price) AS revenue
 FROM sales_data
 GROUP BY region;
+
+
+
+## 🧾 SQL Queries
+- Calculated total revenue
+- Analyzed revenue by category and region
+- Identified top-selling products
+- Evaluated monthly sales trends
+
