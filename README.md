@@ -35,6 +35,14 @@ and extract meaningful insights for decision-making.
 
 ---
 
+## 🧾 SQL Queries
+- Calculated total revenue
+- Analyzed revenue by category and region
+- Identified top-selling products
+- Evaluated monthly sales trends
+
+---
+
 ## 📌 Conclusion
 This project helped strengthen my SQL skills and improved my ability
 to translate raw data into business insights.
